@@ -34,7 +34,7 @@
                         "error",
                         { "props": "never", "children": "never" }
                 ],
-                "react/display-name": "warn",
+                "react/display-name": "warn"
 
         }
 }
